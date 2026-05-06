@@ -7,7 +7,7 @@ This folder contains my SQL-based projects where I practice data analysis and so
 ## 🚀 Projects
 
 ### 1️⃣ 🏗️ SQL EDA on Data Warehouse Project  
-🔗 **Project Link:** [https://github.com/ShivamMahto2105/SQL-PROJECT/tree/main/1%20SQL%20EDA%20PROJECT]
+🔗 **Project Link:** [View Project](https://github.com/ShivamMahto2105/SQL-PROJECT/tree/main/1%20SQL%20EDA%20PROJECT)
 
 #### 📌 Description  
 This project focuses on performing **Exploratory Data Analysis (EDA)** using SQL on a structured Data Warehouse.
