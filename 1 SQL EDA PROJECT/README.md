@@ -20,7 +20,7 @@ The analysis is primarily performed on the **Gold layer**, which is optimized fo
 
 ## 🧭 EDA Workflow
 
-![EDA Workflow](./docs/eda_workflow.png)
+![EDA Workflow](https://github.com/ShivamMahto2105/SQL-PROJECT/blob/main/1%20SQL%20EDA%20PROJECT/docs/EDA.png)
 
 The analysis in this project follows a structured EDA approach:
 
