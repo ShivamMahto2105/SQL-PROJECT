@@ -108,7 +108,7 @@ The analysis in this project follows a structured EDA approach:
 
 ## 🔗 Project Link
 
-[Explore Project Repository](https://github.com/ShivamMahto2105/SQL-PROJECT/tree/main/1%20SQL%20EDA%20PROJECT)
+[Explore Project Repository](https://github.com/ShivamMahto2105/SQL-DWH-PROJECT)
 
 ---
 
